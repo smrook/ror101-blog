@@ -1,0 +1,1671 @@
+[2014-04-04 01:28:50] INFO  WEBrick 1.3.1
+[2014-04-04 01:28:50] INFO  ruby 1.9.3 (2012-04-20) [x86_64-linux]
+[2014-04-04 01:28:50] INFO  WEBrick::HTTPServer#start: pid=3097 port=3000
+[2014-04-04 02:08:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:08:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:08:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:08:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:08:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:08:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:08:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:08:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:08:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:08:34] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:08:37] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:08:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:08:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:08:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:08:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:08:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:08:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:08:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:08:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:08:41] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+=> Booting WEBrick
+=> Rails 4.0.4 application starting in development on http://0.0.0.0:3000
+=> Run `rails server -h` for more startup options
+=> Ctrl-C to shutdown server
+
+
+Started GET "/" for 76.21.123.155 at 2014-04-04 02:07:38 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 414ms (Views: 388.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 76.21.123.155 at 2014-04-04 02:07:39 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 76.21.123.155 at 2014-04-04 02:07:39 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 76.21.123.155 at 2014-04-04 02:07:39 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 76.21.123.155 at 2014-04-04 02:07:39 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 76.21.123.155 at 2014-04-04 02:07:39 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 76.21.123.155 at 2014-04-04 02:07:40 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 76.21.123.155 at 2014-04-04 02:07:40 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 76.21.123.155 at 2014-04-04 02:07:40 -0400
+
+
+Started GET "/assets/application.js?body=1" for 76.21.123.155 at 2014-04-04 02:07:40 -0400
+
+
+Started GET "/posts" for 76.21.123.155 at 2014-04-04 02:07:47 -0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 9ms (Views: 6.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts" for 76.21.123.155 at 2014-04-04 02:08:17 -0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 7ms (Views: 5.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 76.21.123.155 at 2014-04-04 02:08:18 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 76.21.123.155 at 2014-04-04 02:08:18 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 76.21.123.155 at 2014-04-04 02:08:18 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 76.21.123.155 at 2014-04-04 02:08:18 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 76.21.123.155 at 2014-04-04 02:08:18 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 76.21.123.155 at 2014-04-04 02:08:18 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 76.21.123.155 at 2014-04-04 02:08:18 -0400
+
+
+Started GET "/assets/application.js?body=1" for 76.21.123.155 at 2014-04-04 02:08:18 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 76.21.123.155 at 2014-04-04 02:08:18 -0400
+
+
+Started GET "/posts/new" for 76.21.123.155 at 2014-04-04 02:08:21 -0400
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (39.1ms)
+Completed 200 OK in 44ms (Views: 42.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 76.21.123.155 at 2014-04-04 02:08:34 -0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 9ms (Views: 7.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts/new" for 76.21.123.155 at 2014-04-04 02:08:37 -0400
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/posts" for 76.21.123.155 at 2014-04-04 02:08:41 -0400
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"t7eDu810t013QiVR7ALHA9I054J5EmmogRZlxDanf70=", "post"=>{"title"=>"foo", "text"=>"bar"}, "commit"=>"Save Post"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (9.2ms)[0m  INSERT INTO "posts" ("created_at", "text", "title", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Fri, 04 Apr 2014 06:08:41 UTC +00:00], ["text", "bar"], ["title", "foo"], ["updated_at", Fri, 04 Apr 2014 06:08:41 UTC +00:00]]
+  [1m[36m (5.1ms)[0m  [1mcommit transaction[0m
+Redirected to http://www.smrook.com:3000/posts/1
+Completed 302 Found in 35ms (ActiveRecord: 15.2ms)
+
+
+Started GET "/posts/1" for 76.21.123.155 at 2014-04-04 02:08:41 -0400
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.4ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered posts/show.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 47ms (Views: 42.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 76.21.123.155 at 2014-04-04 02:08:41 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 76.21.123.155 at 2014-04-04 02:08:41 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 76.21.123.155 at 2014-04-04 02:08:41 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 76.21.123.155 at 2014-04-04 02:08:41 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 76.21.123.155 at 2014-04-04 02:08:41 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 76.21.123.155 at 2014-04-04 02:08:41 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 76.21.123.155 at 2014-04-04 02:08:41 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 76.21.123.155 at 2014-04-04 02:08:41 -0400
+
+
+Started GET "/assets/application.js?body=1" for 76.21.123.155 at 2014-04-04 02:08:41 -0400
+
+
+Started GET "/posts" for 76.21.123.155 at 2014-04-04 02:08:48 -0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 6ms (Views: 4.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/posts" for 76.21.123.155 at 2014-04-04 02:18:13 -0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.4ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (8.1ms)
+Completed 200 OK in 15ms (Views: 11.0ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/assets/application.css?body=1" for 76.21.123.155 at 2014-04-04 02:18:13 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 76.21.123.155 at 2014-04-04 02:18:13 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:13 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 76.21.123.155 at 2014-04-04 02:18:13 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:13 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:13 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:14 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:14 -0400
+
+
+Started GET "/assets/application.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:14 -0400
+
+
+Started GET "/posts" for 76.21.123.155 at 2014-04-04 02:18:14 -0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 76.21.123.155 at 2014-04-04 02:18:14 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 76.21.123.155 at 2014-04-04 02:18:14 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:14 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:14 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 76.21.123.155 at 2014-04-04 02:18:14 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:14 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:14 -0400
+
+
+Started GET "/assets/application.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:14 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:14 -0400
+
+
+Started GET "/posts/new" for 76.21.123.155 at 2014-04-04 02:18:16 -0400
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (1.7ms)
+[2014-04-04 02:18:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:32] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:32] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:32] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:32] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:32] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:32] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:32] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:32] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:32] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:35] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:35] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:35] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:35] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:35] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:35] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:35] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:35] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:35] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:51] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:51] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:51] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:51] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:51] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:51] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:51] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:51] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:18:51] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:26:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:26:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:26:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:26:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:26:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:26:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:26:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:26:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:26:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:26:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/posts" for 76.21.123.155 at 2014-04-04 02:18:25 -0400
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"t7eDu810t013QiVR7ALHA9I054J5EmmogRZlxDanf70=", "post"=>{"title"=>"fuck", "text"=>"you"}, "commit"=>"Save Post"}
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  Rendered posts/new.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 16ms (Views: 10.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 76.21.123.155 at 2014-04-04 02:18:26 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 76.21.123.155 at 2014-04-04 02:18:26 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 76.21.123.155 at 2014-04-04 02:18:26 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:26 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:26 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:26 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:26 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:26 -0400
+
+
+Started GET "/assets/application.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:26 -0400
+
+
+Started POST "/posts" for 76.21.123.155 at 2014-04-04 02:18:32 -0400
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"t7eDu810t013QiVR7ALHA9I054J5EmmogRZlxDanf70=", "post"=>{"title"=>"fuck", "text"=>"you"}, "commit"=>"Save Post"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  Rendered posts/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 8ms (Views: 5.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 76.21.123.155 at 2014-04-04 02:18:32 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 76.21.123.155 at 2014-04-04 02:18:32 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 76.21.123.155 at 2014-04-04 02:18:32 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:32 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:32 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:32 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:32 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:32 -0400
+
+
+Started GET "/assets/application.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:32 -0400
+
+
+Started POST "/posts" for 76.21.123.155 at 2014-04-04 02:18:35 -0400
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"t7eDu810t013QiVR7ALHA9I054J5EmmogRZlxDanf70=", "post"=>{"title"=>"fuck", "text"=>"you"}, "commit"=>"Save Post"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  Rendered posts/new.html.erb within layouts/application (23.1ms)
+Completed 200 OK in 29ms (Views: 26.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 76.21.123.155 at 2014-04-04 02:18:35 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:35 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 76.21.123.155 at 2014-04-04 02:18:35 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 76.21.123.155 at 2014-04-04 02:18:35 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:35 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:35 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:35 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:35 -0400
+
+
+Started GET "/assets/application.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:35 -0400
+
+
+Started POST "/posts" for 76.21.123.155 at 2014-04-04 02:18:50 -0400
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"t7eDu810t013QiVR7ALHA9I054J5EmmogRZlxDanf70=", "post"=>{"title"=>"fuck", "text"=>"you"}, "commit"=>"Save Post"}
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  Rendered posts/new.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 10ms (Views: 6.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 76.21.123.155 at 2014-04-04 02:18:51 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 76.21.123.155 at 2014-04-04 02:18:51 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 76.21.123.155 at 2014-04-04 02:18:51 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:51 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:51 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:51 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:51 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:51 -0400
+
+
+Started GET "/assets/application.js?body=1" for 76.21.123.155 at 2014-04-04 02:18:51 -0400
+
+
+Started POST "/posts" for 76.21.123.155 at 2014-04-04 02:26:22 -0400
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"t7eDu810t013QiVR7ALHA9I054J5EmmogRZlxDanf70=", "post"=>{"title"=>"fuck", "text"=>"you"}, "commit"=>"Save Post"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  Rendered posts/new.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 12ms (Views: 8.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 76.21.123.155 at 2014-04-04 02:26:22 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 76.21.123.155 at 2014-04-04 02:26:22 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 76.21.123.155 at 2014-04-04 02:26:22 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 76.21.123.155 at 2014-04-04 02:26:22 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 76.21.123.155 at 2014-04-04 02:26:22 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 76.21.123.155 at 2014-04-04 02:26:22 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 76.21.123.155 at 2014-04-04 02:26:22 -0400
+
+
+Started GET "/assets/application.js?body=1" for 76.21.123.155 at 2014-04-04 02:26:22 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 76.21.123.155 at 2014-04-04 02:26:22 -0400
+
+
+Started GET "/posts/new" for 76.21.123.155 at 2014-04-04 02:26:28 -0400
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (10.0ms)
+Completed 500 Internal Server Error in 12ms
+
+ActionView::Template::Error (undefined method `errors' for nil:NilClass):
+    1: <h1>New Post</h1>
+    2: <%= form_for :post, url: posts_path do |f| %>
+    3:   <% if @post.errors.any? %>
+    4:   <div id="error_explanation">
+    5:     <h2><%= pluralize(@post.errors.count, "error") %> prohibited this post from being saved:</h2>
+    6:     <ul>
+  app/views/posts/new.html.erb:3:in `block in _app_views_posts_new_html_erb___2725691120039067996_70289997367640'
+  app/views/posts/new.html.erb:2:in `_app_views_posts_new_html_erb___2725691120039067996_70289997367640'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (11.5ms)
+
+
+Started GET "/posts/new" for 76.21.123.155 at 2014-04-04 02:26:44 -0400
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (1.6ms)
+Completed 500 Internal Server Error in 4ms
+
+ActionView::Template::Error (undefined method `errors' for nil:NilClass):
+    1: <h1>New Post</h1>
+    2: <%= form_for :post, url: posts_path do |f| %>
+    3:   <% if @post.errors.any? %>
+    4:   <div id="error_explanation">
+    5:     <h2><%= pluralize(@post.errors.count, "error") %> prohibited this post from being saved:</h2>
+    6:     <ul>
+  app/views/posts/new.html.erb:3:in `block in _app_views_posts_new_html_erb___2725691120039067996_70289997367640'
+  app/views/posts/new.html.erb:2:in `_app_views_posts_new_html_erb___2725691120039067996_70289997367640'
+
+
+[2014-04-04 02:26:48] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:26:48] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:26:48] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:26:48] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:26:48] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:26:48] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:26:48] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:26:48] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:26:48] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:37] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:37] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:37] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:37] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:37] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:37] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:37] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:37] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:37] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:38] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:38] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:38] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:38] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:38] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:38] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:38] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:38] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:38] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:38] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:38] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:39] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:39] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:39] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:39] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:39] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:39] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:39] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:39] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:39] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.1ms)
+
+
+Started GET "/posts/" for 76.21.123.155 at 2014-04-04 02:26:48 -0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.2ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 5ms (Views: 4.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 76.21.123.155 at 2014-04-04 02:26:48 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 76.21.123.155 at 2014-04-04 02:26:48 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 76.21.123.155 at 2014-04-04 02:26:48 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 76.21.123.155 at 2014-04-04 02:26:48 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 76.21.123.155 at 2014-04-04 02:26:48 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 76.21.123.155 at 2014-04-04 02:26:48 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 76.21.123.155 at 2014-04-04 02:26:48 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 76.21.123.155 at 2014-04-04 02:26:48 -0400
+
+
+Started GET "/assets/application.js?body=1" for 76.21.123.155 at 2014-04-04 02:26:48 -0400
+
+
+Started GET "/posts/new" for 76.21.123.155 at 2014-04-04 02:26:51 -0400
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (2.0ms)
+Completed 500 Internal Server Error in 4ms
+
+ActionView::Template::Error (undefined method `errors' for nil:NilClass):
+    1: <h1>New Post</h1>
+    2: <%= form_for :post, url: posts_path do |f| %>
+    3:   <% if @post.errors.any? %>
+    4:   <div id="error_explanation">
+    5:     <h2><%= pluralize(@post.errors.count, "error") %> prohibited this post from being saved:</h2>
+    6:     <ul>
+  app/views/posts/new.html.erb:3:in `block in _app_views_posts_new_html_erb___2725691120039067996_70289995338160'
+  app/views/posts/new.html.erb:2:in `_app_views_posts_new_html_erb___2725691120039067996_70289995338160'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (10.2ms)
+
+
+Started GET "/posts/new" for 76.21.123.155 at 2014-04-04 02:26:51 -0400
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 3ms
+
+ActionView::Template::Error (undefined method `errors' for nil:NilClass):
+    1: <h1>New Post</h1>
+    2: <%= form_for :post, url: posts_path do |f| %>
+    3:   <% if @post.errors.any? %>
+    4:   <div id="error_explanation">
+    5:     <h2><%= pluralize(@post.errors.count, "error") %> prohibited this post from being saved:</h2>
+    6:     <ul>
+  app/views/posts/new.html.erb:3:in `block in _app_views_posts_new_html_erb___2725691120039067996_70289997367640'
+  app/views/posts/new.html.erb:2:in `_app_views_posts_new_html_erb___2725691120039067996_70289997367640'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.7ms)
+
+
+Started GET "/posts/new" for 76.21.123.155 at 2014-04-04 02:27:37 -0400
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (8.5ms)
+Completed 200 OK in 17ms (Views: 12.5ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/application.css?body=1" for 76.21.123.155 at 2014-04-04 02:27:37 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 76.21.123.155 at 2014-04-04 02:27:37 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 76.21.123.155 at 2014-04-04 02:27:37 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:37 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:37 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:37 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:37 -0400
+
+
+Started GET "/assets/application.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:37 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:37 -0400
+
+
+Started GET "/posts/new" for 76.21.123.155 at 2014-04-04 02:27:38 -0400
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 6ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 76.21.123.155 at 2014-04-04 02:27:38 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 76.21.123.155 at 2014-04-04 02:27:38 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:38 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:38 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 76.21.123.155 at 2014-04-04 02:27:38 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:38 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:38 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:38 -0400
+
+
+Started GET "/assets/application.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:38 -0400
+
+
+Started GET "/posts/new" for 76.21.123.155 at 2014-04-04 02:27:38 -0400
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 76.21.123.155 at 2014-04-04 02:27:39 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 76.21.123.155 at 2014-04-04 02:27:39 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:39 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 76.21.123.155 at 2014-04-04 02:27:39 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:39 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:39 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:39 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:39 -0400
+
+
+Started GET "/assets/application.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:39 -0400
+
+
+Started POST "/posts" for 76.21.123.155 at 2014-04-04 02:27:42 -0400
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"t7eDu810t013QiVR7ALHA9I054J5EmmogRZlxDanf70=", "post"=>{"title"=>"", "text"=>"aaa"}, "commit"=>"Save Post"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  Rendered posts/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 11ms (Views: 7.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 76.21.123.155 at 2014-04-04 02:27:42 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 76.21.123.155 at 2014-04-04 02:27:42 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 76.21.123.155 at 2014-04-04 02:27:42 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:42 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:42 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:42 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:42 -0400
+[2014-04-04 02:27:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:42] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:48] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:48] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:48] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:48] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:48] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:48] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:48] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:48] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:48] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 02:27:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:05:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:05:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+
+
+Started GET "/assets/welcome.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:42 -0400
+
+
+Started GET "/assets/application.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:42 -0400
+
+
+Started POST "/posts" for 76.21.123.155 at 2014-04-04 02:27:48 -0400
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"t7eDu810t013QiVR7ALHA9I054J5EmmogRZlxDanf70=", "post"=>{"title"=>"aaa", "text"=>"aaa"}, "commit"=>"Save Post"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  Rendered posts/new.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 9ms (Views: 6.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 76.21.123.155 at 2014-04-04 02:27:48 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 76.21.123.155 at 2014-04-04 02:27:48 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 76.21.123.155 at 2014-04-04 02:27:48 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:48 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:48 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:48 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:48 -0400
+
+
+Started GET "/assets/application.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:48 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:48 -0400
+
+
+Started POST "/posts" for 76.21.123.155 at 2014-04-04 02:27:54 -0400
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"t7eDu810t013QiVR7ALHA9I054J5EmmogRZlxDanf70=", "post"=>{"title"=>"", "text"=>"aaa"}, "commit"=>"Save Post"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  Rendered posts/new.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 9ms (Views: 6.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 76.21.123.155 at 2014-04-04 02:27:54 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 76.21.123.155 at 2014-04-04 02:27:54 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 76.21.123.155 at 2014-04-04 02:27:54 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:54 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:54 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:54 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:54 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:54 -0400
+
+
+Started GET "/assets/application.js?body=1" for 76.21.123.155 at 2014-04-04 02:27:54 -0400
+
+
+Started GET "/" for 216.113.168.128 at 2014-04-04 15:04:33 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 18ms (Views: 16.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 216.113.168.128 at 2014-04-04 15:04:33 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 15:04:33 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 216.113.168.128 at 2014-04-04 15:04:33 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 216.113.168.128 at 2014-04-04 15:04:33 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 15:04:33 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 216.113.168.128 at 2014-04-04 15:04:33 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 15:04:33 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 216.113.168.128 at 2014-04-04 15:04:33 -0400
+
+
+Started GET "/assets/application.js?body=1" for 216.113.168.128 at 2014-04-04 15:04:33 -0400
+
+
+Started GET "/" for 216.113.168.128 at 2014-04-04 15:05:40 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 216.113.168.128 at 2014-04-04 15:05:40 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 15:05:40 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 216.113.168.128 at 2014-04-04 15:05:40 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 216.113.168.128 at 2014-04-04 15:05:41 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 15:05:41 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 216.113.168.128 at 2014-04-04 15:05:41 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 15:05:41 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 216.113.168.128 at 2014-04-04 15:05:41 -0400
+
+
+Started GET "/assets/application.js?body=1" for 216.113.168.128 at 2014-04-04 15:05:41 -0400
+
+
+Started GET "/" for 216.113.168.128 at 2014-04-04 15:05:43 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 216.113.168.128 at 2014-04-04 15:05:44 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 15:05:44 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 15:05:44 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 216.113.168.128 at 2014-04-04 15:05:44 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 216.113.168.128 at 2014-04-04 15:05:44 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 216.113.168.128 at 2014-04-04 15:05:44 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 216.113.168.128 at 2014-04-04 15:05:44 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 15:05:44 -0400
+
+
+Started GET "/assets/application.js?body=1" for 216.113.168.128 at 2014-04-04 15:05:44 -0400
+
+
+Started GET "/posts" for 216.113.168.128 at 2014-04-04 15:05:46 -0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.9ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (8.9ms)
+Completed 200 OK in 16ms (Views: 11.2ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/posts/1" for 216.113.168.128 at 2014-04-04 15:05:53 -0400
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered posts/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 6ms (Views: 4.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts" for 216.113.168.128 at 2014-04-04 15:05:57 -0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts/1/edit" for 216.113.168.128 at 2014-04-04 15:05:58 -0400
+Processing by PostsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.2ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered posts/edit.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 8ms (Views: 6.2ms | ActiveRecord: 0.2ms)
+
+
+Started PATCH "/posts/1" for 216.113.168.128 at 2014-04-04 15:06:02 -0400
+Processing by PostsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Uen+ylBj78CIl7BPykJBzOEO4wnR+FMxmPE80zDNXU8=", "post"=>{"title"=>"foo", "text"=>"bar"}, "commit"=>"Save Post", "id"=>"1"}
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  Rendered posts/edit.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 13ms (Views: 8.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 15:06:02 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 15:06:02 -0400
+[2014-04-04 15:06:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:21] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:21] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:21] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:25] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:25] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:25] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:31] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:31] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:31] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:06:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:07:00] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:07:00] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:07:00] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 15:06:02 -0400
+
+
+Started PATCH "/posts/1" for 216.113.168.128 at 2014-04-04 15:06:18 -0400
+Processing by PostsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Uen+ylBj78CIl7BPykJBzOEO4wnR+FMxmPE80zDNXU8=", "post"=>{"title"=>"foo", "text"=>"bar"}, "commit"=>"Save Post", "id"=>"1"}
+  [1m[35mPost Load (0.2ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  Rendered posts/edit.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 10ms (Views: 6.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 15:06:18 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 15:06:18 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 15:06:18 -0400
+
+
+Started PATCH "/posts/1" for 216.113.168.128 at 2014-04-04 15:06:21 -0400
+Processing by PostsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Uen+ylBj78CIl7BPykJBzOEO4wnR+FMxmPE80zDNXU8=", "post"=>{"title"=>"foo", "text"=>"bar"}, "commit"=>"Save Post", "id"=>"1"}
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  Rendered posts/edit.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 10ms (Views: 6.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 15:06:21 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 15:06:21 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 15:06:21 -0400
+
+
+Started PATCH "/posts/1" for 216.113.168.128 at 2014-04-04 15:06:23 -0400
+Processing by PostsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Uen+ylBj78CIl7BPykJBzOEO4wnR+FMxmPE80zDNXU8=", "post"=>{"title"=>"foo", "text"=>"bar"}, "commit"=>"Save Post", "id"=>"1"}
+  [1m[35mPost Load (0.2ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  Rendered posts/edit.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 9ms (Views: 5.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 15:06:23 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 15:06:23 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 15:06:23 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 15:06:24 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 15:06:24 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 15:06:24 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 15:06:25 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 15:06:25 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 15:06:25 -0400
+
+
+Started PATCH "/posts/1" for 216.113.168.128 at 2014-04-04 15:06:31 -0400
+Processing by PostsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Uen+ylBj78CIl7BPykJBzOEO4wnR+FMxmPE80zDNXU8=", "post"=>{"title"=>"foo", "text"=>"bar"}, "commit"=>"Save Post", "id"=>"1"}
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  Rendered posts/edit.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 10ms (Views: 6.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 15:06:31 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 15:06:31 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 15:06:31 -0400
+
+
+Started PATCH "/posts/1" for 216.113.168.128 at 2014-04-04 15:06:54 -0400
+Processing by PostsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Uen+ylBj78CIl7BPykJBzOEO4wnR+FMxmPE80zDNXU8=", "post"=>{"title"=>"foo", "text"=>"bar"}, "commit"=>"Save Post", "id"=>"1"}
+  [1m[35mPost Load (0.2ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  Rendered posts/edit.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 10ms (Views: 6.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 15:06:54 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 15:06:54 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 15:06:54 -0400
+
+
+Started PATCH "/posts/1" for 216.113.168.128 at 2014-04-04 15:06:59 -0400
+Processing by PostsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Uen+ylBj78CIl7BPykJBzOEO4wnR+FMxmPE80zDNXU8=", "post"=>{"title"=>"foobar", "text"=>"bar"}, "commit"=>"Save Post", "id"=>"1"}
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.5ms)[0m  [1mUPDATE "posts" SET "title" = ?, "updated_at" = ? WHERE "posts"."id" = 1[0m  [["title", "foobar"], ["updated_at", Fri, 04 Apr 2014 19:06:59 UTC +00:00]]
+  [1m[35m (3.5ms)[0m  commit transaction
+Redirected to http://www.smrook.com/posts/1
+Completed 302 Found in 10ms (ActiveRecord: 4.2ms)
+
+
+Started GET "/posts/1" for 216.113.168.128 at 2014-04-04 15:06:59 -0400
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPost Load (0.1ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  Rendered posts/show.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 6ms (Views: 4.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 15:07:00 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 15:07:00 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 15:07:00 -0400
+
+
+Started GET "/posts" for 216.113.168.128 at 2014-04-04 15:07:04 -0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 9ms (Views: 7.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts/new" for 216.113.168.128 at 2014-04-04 15:07:08 -0400
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/posts" for 216.113.168.128 at 2014-04-04 15:07:25 -0400
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Uen+ylBj78CIl7BPykJBzOEO4wnR+FMxmPE80zDNXU8=", "post"=>{"title"=>"f**88k", "text"=>"you bet"}, "commit"=>"Save Post"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "posts" ("created_at", "text", "title", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Fri, 04 Apr 2014 19:07:25 UTC +00:00], ["text", "you bet"], ["title", "f**88k"], ["updated_at", Fri, 04 Apr 2014 19:07:25 UTC +00:00]]
+  [1m[36m (7.3ms)[0m  [1mcommit transaction[0m
+Redirected to http://www.smrook.com/posts/2
+Completed 302 Found in 13ms (ActiveRecord: 8.0ms)
+
+
+Started GET "/posts/2" for 216.113.168.128 at 2014-04-04 15:07:25 -0400
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mPost Load (0.2ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "2"]]
+  Rendered posts/show.html.erb within layouts/application (0.6ms)
+[2014-04-04 15:07:25] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:07:25] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:07:25] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:08:38] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:08:38] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:08:38] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:08:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:08:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:08:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:12:37] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:12:37] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:12:37] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:12:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:12:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:12:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:12:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:12:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 15:12:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+Completed 200 OK in 7ms (Views: 5.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 15:07:25 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 15:07:25 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 15:07:25 -0400
+
+
+Started GET "/posts" for 216.113.168.128 at 2014-04-04 15:07:38 -0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/posts/2/edit" for 216.113.168.128 at 2014-04-04 15:08:33 -0400
+Processing by PostsController#edit as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mPost Load (0.2ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "2"]]
+  Rendered posts/edit.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 7ms (Views: 5.1ms | ActiveRecord: 0.2ms)
+
+
+Started PATCH "/posts/2" for 216.113.168.128 at 2014-04-04 15:08:38 -0400
+Processing by PostsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Uen+ylBj78CIl7BPykJBzOEO4wnR+FMxmPE80zDNXU8=", "post"=>{"title"=>"", "text"=>"you bet"}, "commit"=>"Save Post", "id"=>"2"}
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", "2"]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  Rendered posts/edit.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 11ms (Views: 7.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 15:08:38 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 15:08:38 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 15:08:38 -0400
+
+
+Started GET "/posts/2" for 216.113.168.128 at 2014-04-04 15:08:44 -0400
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "2"]]
+  Rendered posts/show.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 6ms (Views: 3.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 15:08:44 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 15:08:44 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 15:08:44 -0400
+
+
+Started GET "/posts" for 216.113.168.128 at 2014-04-04 15:08:57 -0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 216.113.168.128 at 2014-04-04 15:12:37 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 15:12:37 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 15:12:37 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 15:12:37 -0400
+
+
+Started GET "/posts" for 216.113.168.128 at 2014-04-04 15:12:41 -0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.2ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/posts/new" for 216.113.168.128 at 2014-04-04 15:12:43 -0400
+Processing by PostsController#new as HTML
+  Rendered posts/_form.html.erb (3.1ms)
+  Rendered posts/new.html.erb within layouts/application (7.8ms)
+Completed 200 OK in 12ms (Views: 10.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/posts" for 216.113.168.128 at 2014-04-04 15:12:46 -0400
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Uen+ylBj78CIl7BPykJBzOEO4wnR+FMxmPE80zDNXU8=", "post"=>{"title"=>"", "text"=>""}, "commit"=>"Create Post"}
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  Rendered posts/_form.html.erb (4.4ms)
+  Rendered posts/new.html.erb within layouts/application (5.7ms)
+Completed 200 OK in 12ms (Views: 8.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 15:12:46 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 15:12:46 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 15:12:46 -0400
+
+
+Started GET "/posts" for 216.113.168.128 at 2014-04-04 15:12:52 -0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 8ms (Views: 6.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 15:12:52 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 15:12:52 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 15:12:52 -0400
+
+
+Started GET "/posts/2/edit" for 216.113.168.128 at 2014-04-04 15:12:55 -0400
+Processing by PostsController#edit as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mPost Load (0.2ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "2"]]
+  Rendered posts/_form.html.erb (3.2ms)
+  Rendered posts/edit.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 11ms (Views: 8.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/posts/new" for 216.113.168.128 at 2014-04-04 15:13:02 -0400
+Processing by PostsController#new as HTML
+  Rendered posts/_form.html.erb (3.3ms)
+  Rendered posts/new.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 50ms (Views: 48.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 216.113.168.128 at 2014-04-04 15:14:42 -0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 7ms (Views: 5.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts/1/edit" for 216.113.168.128 at 2014-04-04 15:14:44 -0400
+Processing by PostsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.2ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered posts/_form.html.erb (2.7ms)
+  Rendered posts/edit.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 9ms (Views: 7.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/posts" for 216.113.168.128 at 2014-04-04 15:22:36 -0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (9.9ms)
+Completed 200 OK in 17ms (Views: 12.8ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/posts" for 216.113.168.128 at 2014-04-04 15:22:39 -0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 216.113.168.128 at 2014-04-04 15:22:39 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 15:22:39 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 216.113.168.128 at 2014-04-04 15:22:39 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 216.113.168.128 at 2014-04-04 15:22:39 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 15:22:39 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 15:22:39 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 216.113.168.128 at 2014-04-04 15:22:39 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 216.113.168.128 at 2014-04-04 15:22:39 -0400
+[2014-04-04 16:17:59] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 16:17:59] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 16:17:59] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 16:18:34] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 16:18:34] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 16:18:34] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 16:19:32] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 16:19:32] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 16:19:32] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 16:19:32] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 16:19:32] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 16:35:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 16:35:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 16:35:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 16:35:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 16:35:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+
+
+Started GET "/assets/application.js?body=1" for 216.113.168.128 at 2014-04-04 15:22:39 -0400
+
+
+Started DELETE "/posts/2" for 216.113.168.128 at 2014-04-04 15:22:47 -0400
+Processing by PostsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"Uen+ylBj78CIl7BPykJBzOEO4wnR+FMxmPE80zDNXU8=", "id"=>"2"}
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", "2"]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mDELETE FROM "posts" WHERE "posts"."id" = ?[0m  [["id", 2]]
+  [1m[35m (3.7ms)[0m  commit transaction
+Redirected to http://www.smrook.com/posts
+Completed 302 Found in 8ms (ActiveRecord: 4.4ms)
+
+
+Started GET "/posts" for 216.113.168.128 at 2014-04-04 15:22:47 -0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/posts" for 216.113.168.128 at 2014-04-04 16:17:59 -0400
+  [1m[35mActiveRecord::SchemaMigration Load (0.1ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 144ms (Views: 135.4ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/comments.css?body=1" for 216.113.168.128 at 2014-04-04 16:17:59 -0400
+
+
+Started GET "/assets/application.css?body=1" for 216.113.168.128 at 2014-04-04 16:17:59 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 216.113.168.128 at 2014-04-04 16:17:59 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 216.113.168.128 at 2014-04-04 16:17:59 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 16:17:59 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 216.113.168.128 at 2014-04-04 16:17:59 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 16:17:59 -0400
+
+
+Started GET "/assets/comments.js?body=1" for 216.113.168.128 at 2014-04-04 16:17:59 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 16:17:59 -0400
+
+
+Started GET "/assets/application.js?body=1" for 216.113.168.128 at 2014-04-04 16:17:59 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 216.113.168.128 at 2014-04-04 16:17:59 -0400
+
+
+Started GET "/posts/1" for 216.113.168.128 at 2014-04-04 16:18:03 -0400
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.5ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?[0m  [["post_id", 1]]
+  Rendered posts/show.html.erb within layouts/application (100.1ms)
+Completed 200 OK in 110ms (Views: 105.6ms | ActiveRecord: 1.6ms)
+
+
+Started POST "/posts/1/comments" for 216.113.168.128 at 2014-04-04 16:18:34 -0400
+Processing by CommentsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Uen+ylBj78CIl7BPykJBzOEO4wnR+FMxmPE80zDNXU8=", "comment"=>{"commenter"=>"ausie", "body"=>"what a good die to die!"}, "commit"=>"Create Comment", "post_id"=>"1"}
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "comments" ("body", "commenter", "created_at", "post_id", "updated_at") VALUES (?, ?, ?, ?, ?)  [["body", "what a good die to die!"], ["commenter", "ausie"], ["created_at", Fri, 04 Apr 2014 20:18:34 UTC +00:00], ["post_id", 1], ["updated_at", Fri, 04 Apr 2014 20:18:34 UTC +00:00]]
+  [1m[36m (3.4ms)[0m  [1mcommit transaction[0m
+Redirected to http://www.smrook.com/posts/1
+Completed 302 Found in 12ms (ActiveRecord: 4.3ms)
+
+
+Started GET "/posts/1" for 216.113.168.128 at 2014-04-04 16:18:34 -0400
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.1ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?[0m  [["post_id", 1]]
+  Rendered posts/show.html.erb within layouts/application (33.1ms)
+Completed 200 OK in 39ms (Views: 36.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 16:18:34 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 16:18:34 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 16:18:34 -0400
+
+
+Started GET "/posts/1" for 216.113.168.128 at 2014-04-04 16:19:32 -0400
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.2ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36mComment Load (0.5ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?[0m  [["post_id", 1]]
+  Rendered posts/show.html.erb within layouts/application (5.7ms)
+Completed 200 OK in 11ms (Views: 8.5ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 216.113.168.128 at 2014-04-04 16:19:32 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 16:19:32 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 216.113.168.128 at 2014-04-04 16:19:32 -0400
+
+
+Started GET "/assets/comments.css?body=1" for 216.113.168.128 at 2014-04-04 16:19:32 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 216.113.168.128 at 2014-04-04 16:19:32 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 16:19:32 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 216.113.168.128 at 2014-04-04 16:19:32 -0400
+
+
+Started GET "/assets/comments.js?body=1" for 216.113.168.128 at 2014-04-04 16:19:32 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 16:19:32 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 216.113.168.128 at 2014-04-04 16:19:32 -0400
+
+
+Started GET "/assets/application.js?body=1" for 216.113.168.128 at 2014-04-04 16:19:32 -0400
+
+
+Started GET "/posts/1" for 216.113.168.128 at 2014-04-04 16:34:46 -0400
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 500 Internal Server Error in 2ms
+
+ArgumentError (Unknown key: depenent):
+  app/models/post.rb:2:in `<class:Post>'
+  app/models/post.rb:1:in `<top (required)>'
+  app/controllers/posts_controller.rb:11:in `show'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.0.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.7ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.0.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.9ms)
+
+
+Started GET "/" for 216.113.168.128 at 2014-04-04 16:35:22 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 5ms (Views: 4.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/comments.css?body=1" for 216.113.168.128 at 2014-04-04 16:35:22 -0400
+
+
+Started GET "/assets/posts.css?body=1" for 216.113.168.128 at 2014-04-04 16:35:22 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 216.113.168.128 at 2014-04-04 16:35:22 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 216.113.168.128 at 2014-04-04 16:35:22 -0400
+
+
+Started GET "/assets/posts.js?body=1" for 216.113.168.128 at 2014-04-04 16:35:22 -0400
+
+
+Started GET "/assets/comments.js?body=1" for 216.113.168.128 at 2014-04-04 16:35:22 -0400
+
+
+Started GET "/posts" for 216.113.168.128 at 2014-04-04 16:35:25 -0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.4ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (8.1ms)
+[2014-04-04 16:35:37] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 16:35:37] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 16:35:37] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 16:35:37] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 16:35:37] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 16:35:37] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 17:45:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 17:45:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 17:45:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 17:45:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 17:45:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 17:45:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-04-04 17:45:47] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
